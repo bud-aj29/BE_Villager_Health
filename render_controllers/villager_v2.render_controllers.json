@@ -1,0 +1,27 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.villager_v2_base": {
+      "arrays": {
+        "textures": {
+          "Array.skins": [
+            "Texture.base0",
+            "Texture.base1",
+            "Texture.base2",
+            "Texture.base3",
+            "Texture.base4",
+            "Texture.base5",
+            "Texture.base6"
+          ]
+        }
+      },
+      "geometry": "Geometry.default",
+      "materials": [
+        { "*": "Material.default" }
+      ],
+      "textures": [
+        "Array.skins[query.health / (20/6)]"
+      ]
+    }
+  }
+}

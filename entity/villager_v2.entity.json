@@ -1,0 +1,17 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:villager_v2",
+      "textures": {
+	"base0": "textures/entity/villager2/villager0",
+	"base1": "textures/entity/villager2/villager1",
+        "base2": "textures/entity/villager2/villager2",
+        "base3": "textures/entity/villager2/villager3",
+        "base4": "textures/entity/villager2/villager4",
+        "base5": "textures/entity/villager2/villager5",
+        "base6": "textures/entity/villager2/villager6"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Show villager health",
+        "name": "Villager_Health",
+        "uuid": "e02e24c4-55c6-4c68-96f7-8910546a9331",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 19, 20 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "0f03f94f-2dd8-4f53-a34e-27b6fc78d460",
+            "version": [0, 0, 1]
+        }
+    ]
+}
